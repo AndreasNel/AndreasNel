@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![hits](http://hits.dwyl.com/AndreasNel/AndreasNel.svg)](http://hits.dwyl.com/AndreasNel/AndreasNel)
+
 <!--
 **AndreasNel/AndreasNel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
