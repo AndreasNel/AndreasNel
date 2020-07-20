@@ -1,7 +1,5 @@
 ### This is me (in case you were wondering) 👋 :smile:
 
-[![hits](http://hits.dwyl.com/AndreasNel/AndreasNel.svg)](http://hits.dwyl.com/AndreasNel/AndreasNel)
-
 - :robot: :link: I'm a huge fan of integrating things
 - :trollface: :+1: I'm an even bigger fan of puns and dad jokes
 - :cat: :red_circle: My cat can play fetch
