@@ -7,7 +7,7 @@
 <a href="https://codetrace.com/users/AndreasNel"><img src="https://codetrace.com/widget/AndreasNel" width="495" height="100" /></a>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=AndreasNel&count_private=true&show_icons=true&hide_title=true&bg_color=ebecf6)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasNel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasNel&layout=compact&card_width=493&bg_color=ebecf6)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find other random stats down below :point_down: made with some of [these awesome projects](https://github.com/matchai/awesome-pinned-gists).
 <!--
